@@ -13,9 +13,9 @@ console.log(sum);
 
 /* b) Create two String variables and concatenate them by storing the result in a third variable */
 
-var firstname = 'Andres ';
-var lastname = 'Pienizzio';
-var name = firstname + lastname;
+var firstName = 'Andres ';
+var lastName = 'Pienizzio';
+var name = firstName + lastName;
 
 console.log(name);
 
@@ -24,6 +24,6 @@ saving the result of the sum in a third variable (use length) */
 
 var string1 = 'Andres ';
 var string2 = 'Pienizzio';
-var stringslength = string1.length + string2.length;
+var stringsLength = string1.length + string2.length;
 
-console.log(stringslength);
+console.log(stringsLength);
