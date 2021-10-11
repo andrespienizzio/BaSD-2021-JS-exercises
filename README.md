@@ -1,5 +1,5 @@
 # RADIUM ROCKET - BECOME A SOFTWARE DEVELOPER
----
+
 ## WEEK N° 4
 ---
 #### OBJECTIVES
@@ -8,7 +8,7 @@ The objectives of the 4th week were divided into **two activities**:
 
 * Taking into account the feedback provided by the tutors, improve what was done in the problematic of week N° 3, implementing the corrections.
 * Perform a series of JavaScript exercises, applying the concepts learned from the asynchronous material.
-
+---
 #### RESOLUTION
 
 > **Javascript**
@@ -33,7 +33,7 @@ Repository Week N° 3: https://github.com/andrespienizzio/shelbyville-times
 Github Pages: https://andrespienizzio.github.io/shelbyville-times/
 ```
 
-
+---
 #### REPOSITORY 
 You will see a main html file, where al the Javascripts files are linked trought the tag <script>. Also, there is a folder where yo can see all the resolutions of the provided excercises. The solutions can be seen, apart from the code it self, if you open the html file, use the inspect tool in the browser and go to the console.
 
